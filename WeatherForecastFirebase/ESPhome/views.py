@@ -2,7 +2,7 @@ from django.shortcuts import render
 import pyrebase
 
 # Create your views here.
-
+#chnage it 
 firebaseConfig = {
     'apiKey': "AIzaSyCj_hP9EehgCKz5S7xSA1Y2JrfJJWfY70Q",
     'authDomain': "ashishfirebase-c098f.firebaseapp.com",
